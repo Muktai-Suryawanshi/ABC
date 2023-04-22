@@ -9,6 +9,10 @@ public class Sum {
 			return c;
 		}
 		
+		public String getMsgFirst() {
+			return "Welcome To Dharashiv";
+		}
+		
 
 	}
 
